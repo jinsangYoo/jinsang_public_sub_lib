@@ -1,0 +1,16 @@
+PODS:
+  - AceAnalytics (1.2.7)
+
+DEPENDENCIES:
+  - AceAnalytics
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AceAnalytics
+
+SPEC CHECKSUMS:
+  AceAnalytics: 112f3191b4b38894332b2b2010e438a88a8505de
+
+PODFILE CHECKSUM: 5bb8bcefd79f1e56dbad70de36777cf8b80ac7ab
+
+COCOAPODS: 1.5.3
