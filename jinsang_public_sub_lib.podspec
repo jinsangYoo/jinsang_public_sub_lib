@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'jinsang_public_sub_lib'
-    s.version          = '0.0.3'
+    s.version          = '0.0.4'
     s.summary          = 'subspec of jinsang_public_sub_lib.'
     s.swift_version = '4.2'
 

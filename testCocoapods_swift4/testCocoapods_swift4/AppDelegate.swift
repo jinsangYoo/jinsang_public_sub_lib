@@ -18,7 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         let aceConfiguration = AceConfiguration.Builder()
-            .setServiceId(serviceId: "109966")
+            .setServiceId(serviceId: "100341")
             .setDebugMode(debug: true)
             .setCordovaPluginMode(cordovaPluginMode: false)
             .build();
